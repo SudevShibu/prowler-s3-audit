@@ -14,8 +14,9 @@ This project audits S3 buckets for public access and encryption status.
 1. Clone the repository:
    ```bash
    git clone https://github.com/SudevShibu/prowler-s3-audit.git
-2. Navigate into the directory:
-   cd prowler-s3-audit
+## Navigate into the directory:
+2. cd prowler-s3-audit
+   
 3. Install the required libraries:
    poetry install
 
